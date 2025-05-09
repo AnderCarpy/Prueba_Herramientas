@@ -1,0 +1,12 @@
+C:\Users\GAMING\Documents\VISUAL STUDIO COMMUNITY\Aenit\Api.Consumer\bin\Debug\net8.0\Aenit.APIConsumer.deps.json
+C:\Users\GAMING\Documents\VISUAL STUDIO COMMUNITY\Aenit\Api.Consumer\bin\Debug\net8.0\Aenit.APIConsumer.dll
+C:\Users\GAMING\Documents\VISUAL STUDIO COMMUNITY\Aenit\Api.Consumer\bin\Debug\net8.0\Aenit.APIConsumer.pdb
+C:\Users\GAMING\Documents\VISUAL STUDIO COMMUNITY\Aenit\Api.Consumer\obj\Debug\net8.0\Aenit.APIConsumer.csproj.AssemblyReference.cache
+C:\Users\GAMING\Documents\VISUAL STUDIO COMMUNITY\Aenit\Api.Consumer\obj\Debug\net8.0\Aenit.APIConsumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GAMING\Documents\VISUAL STUDIO COMMUNITY\Aenit\Api.Consumer\obj\Debug\net8.0\Aenit.APIConsumer.AssemblyInfoInputs.cache
+C:\Users\GAMING\Documents\VISUAL STUDIO COMMUNITY\Aenit\Api.Consumer\obj\Debug\net8.0\Aenit.APIConsumer.AssemblyInfo.cs
+C:\Users\GAMING\Documents\VISUAL STUDIO COMMUNITY\Aenit\Api.Consumer\obj\Debug\net8.0\Aenit.APIConsumer.csproj.CoreCompileInputs.cache
+C:\Users\GAMING\Documents\VISUAL STUDIO COMMUNITY\Aenit\Api.Consumer\obj\Debug\net8.0\Aenit.APIConsumer.dll
+C:\Users\GAMING\Documents\VISUAL STUDIO COMMUNITY\Aenit\Api.Consumer\obj\Debug\net8.0\refint\Aenit.APIConsumer.dll
+C:\Users\GAMING\Documents\VISUAL STUDIO COMMUNITY\Aenit\Api.Consumer\obj\Debug\net8.0\Aenit.APIConsumer.pdb
+C:\Users\GAMING\Documents\VISUAL STUDIO COMMUNITY\Aenit\Api.Consumer\obj\Debug\net8.0\ref\Aenit.APIConsumer.dll

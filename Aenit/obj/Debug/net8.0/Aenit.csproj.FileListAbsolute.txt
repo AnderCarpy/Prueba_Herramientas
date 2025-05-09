@@ -1,0 +1,14 @@
+C:\Users\GAMING\Documents\VISUAL STUDIO COMMUNITY\Aenit\Aenit\bin\Debug\net8.0\Aenit.deps.json
+C:\Users\GAMING\Documents\VISUAL STUDIO COMMUNITY\Aenit\Aenit\bin\Debug\net8.0\Aenit.runtimeconfig.json
+C:\Users\GAMING\Documents\VISUAL STUDIO COMMUNITY\Aenit\Aenit\bin\Debug\net8.0\Aenit.dll
+C:\Users\GAMING\Documents\VISUAL STUDIO COMMUNITY\Aenit\Aenit\bin\Debug\net8.0\Aenit.pdb
+C:\Users\GAMING\Documents\VISUAL STUDIO COMMUNITY\Aenit\Aenit\obj\Debug\net8.0\Aenit.csproj.AssemblyReference.cache
+C:\Users\GAMING\Documents\VISUAL STUDIO COMMUNITY\Aenit\Aenit\obj\Debug\net8.0\Aenit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GAMING\Documents\VISUAL STUDIO COMMUNITY\Aenit\Aenit\obj\Debug\net8.0\Aenit.AssemblyInfoInputs.cache
+C:\Users\GAMING\Documents\VISUAL STUDIO COMMUNITY\Aenit\Aenit\obj\Debug\net8.0\Aenit.AssemblyInfo.cs
+C:\Users\GAMING\Documents\VISUAL STUDIO COMMUNITY\Aenit\Aenit\obj\Debug\net8.0\Aenit.csproj.CoreCompileInputs.cache
+C:\Users\GAMING\Documents\VISUAL STUDIO COMMUNITY\Aenit\Aenit\obj\Debug\net8.0\Aenit.dll
+C:\Users\GAMING\Documents\VISUAL STUDIO COMMUNITY\Aenit\Aenit\obj\Debug\net8.0\refint\Aenit.dll
+C:\Users\GAMING\Documents\VISUAL STUDIO COMMUNITY\Aenit\Aenit\obj\Debug\net8.0\Aenit.pdb
+C:\Users\GAMING\Documents\VISUAL STUDIO COMMUNITY\Aenit\Aenit\obj\Debug\net8.0\Aenit.genruntimeconfig.cache
+C:\Users\GAMING\Documents\VISUAL STUDIO COMMUNITY\Aenit\Aenit\obj\Debug\net8.0\ref\Aenit.dll
